@@ -54,9 +54,9 @@ document.addEventListener("visibilitychange", function () {
 var typed = new Typed(".typing-text", {
   strings: [
     "Functional Consultant",
-    "Finance Module Implementation",
-    "Accountancy",
-    "Masters in Business Administration",
+    "Solutional Desinging",
+    "End-to-End Implementation",
+    "Requirement Gathering",
   ],
   loop: true,
   typeSpeed: 50,
