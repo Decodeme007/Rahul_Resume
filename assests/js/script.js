@@ -53,10 +53,10 @@ document.addEventListener("visibilitychange", function () {
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
   strings: [
-    "Django Developement",
-    "BCA Degree",
-    "Front End Development",
-    "open source",
+    "Functional Consultant",
+    "Finance Module Implementation",
+    "Accountancy",
+    "Masters in Business Administration",
   ],
   loop: true,
   typeSpeed: 50,
